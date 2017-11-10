@@ -1,0 +1,67 @@
+
+* Michael Jantz
+Results-driven individual with five years of experience desiring to bring a Programming background and Engineering mindset to a Software Engineering position
+
+* Contact Info
+  Address: 1531 E. Omaha St. 
+  Broken Arrow, OK 74012 Apt. A6
+  Cell: (918) 407-9016
+  Email: MichaelWJantz@gmail.com
+* EXPERIENCE
+** Avis Budget Group, Tulsa, OK - Database & Reports Support Specialist (Contract Software Development)
+   - June 2017 - Present
+   - Wrote and maintained web apps and services supporting  the Finance and Reporting group.
+   - Asp.net and C#, Bootstrap, Jquery, SQL Server 2012.
+   - Some server administration and DevOps.
+   - Implemented and maintained Git source control system
+   - Oversaw switch from WCF web services to Web API.
+** TMA Systems, Tulsa, OK — Software Engineer
+  - June 2014 - May 2017
+  - Worked through three major product cycles in a .Net based web application
+  - using ASP.Net and C# with Telerik controls, on a SQL Server 2012 database.
+  - Created new modules and pages for products 
+  - Added enhancements to existing models
+  - Handled bug fixes
+  - Wrote reports in SSRS for clients.
+** Flight Safety, Broken Arrow, OK — Electrical Engineer
+  - July 2012 - June 2014
+  - Three primary jobs on the Sound Team:
+  - Gathered flight test data and generate a series of graphs to test against.
+  - Programmed the software portion of the simulation. Applications written in C++ that governed communication portion and Fortran for the hardware segment when needed. 
+  - Traveled to an onsite testing location, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting. 
+* EDUCATION
+  Northeastern State University, 
+  Tahlequah, OK — BS Computer Science
+  August 2008 - May 2012
+  GPA: 3.699, Magna Cum Laude
+** PROJECTS
+*** Honors Research Project — Northeastern State University
+    Develop GUI, control interface, and webcam feed for remote presence application with Roomba robotics platform in Java. Example of operation can be seen here: http://www.youtube.com/watch?v=rQAzlvG2lqg
+** SKILLS
+  - Love for learning new things.
+  - Critical thinking and problem solving.
+  - Works well with customers and customer expectations.
+  - Tolerant and flexible in different situations.
+** LANGUAGES
+  - ASP.Net/MVC
+  - C#
+  - Javascript
+  - jQuery
+  - Angular.js
+  - Bootstrap
+  - Emacs Lisp
+  - C++
+  - Java
+  - SQL
+  - SSRS
+  - Intel x86 Assembly
+  - HTML
+  - Flash
+  - Visual Basic .Net
+  - Fortran
+** Software
+  - Visual Studio IDE
+  - Vim
+  - Emacs
+  - Eclipse IDE
+  - GoldWave
