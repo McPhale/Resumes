@@ -41,7 +41,7 @@
         "highlights": [
             "Worked through three major product cycles in a .Net based web application using ASP.Net and C# with Telerik controls, on a SQL Server 2012 database.",
             "Created new modules and pages for products",
-            "Added enhancements to existing models",
+            "Added enhancements to existing modules",
             "Handled bug fixes",
             "Wrote reports in SSRS for clients"
         ]
@@ -55,7 +55,6 @@
         "summary": "Our state-of-the-art FS1000 simulators replicate your aircraft’s flying characteristics, allowing more training in simulators. VITAL 1100 visual systems and CrewView glass mirror displays present highly detailed imagery for unprecedented fidelity. In addition to manufacturing visual systems, simulators and advanced training devices for ourselves, we have delivered state-of-the-art simulation to leading commercial, government and military organizations worldwide.",
         "highlights": [
             "Gathered flight test data and generate a series of graphs to test against",
-            "Created new modules and pages for products",
             "Programmed the software portion of the simulation. Applications written in C++ that governed communication portion and Fortran for the hardware segment when needed.",
             "Traveled to an onsite testing locations, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting."
         ]
