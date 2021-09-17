@@ -57,7 +57,7 @@
         "summary": "Our state-of-the-art FS1000 simulators replicate your aircraft’s flying characteristics, allowing more training in simulators. VITAL 1100 visual systems and CrewView glass mirror displays present highly detailed imagery for unprecedented fidelity. In addition to manufacturing visual systems, simulators and advanced training devices for ourselves, we have delivered state-of-the-art simulation to leading commercial, government and military organizations worldwide.",
         "highlights": [
             "Gathered audio flight test data and generated a series of graphs to test against",
-            "Programmed the software portion of the simulation. Applications written in C++ that governed communication portion and Fortran for the hardware segment when needed",
+            "Simulated the communications systems, cockpit, and environmental sounds for various aircraft in C++ and integrated aircraft control systems into these simulations via Fortran",
             "Traveled to onsite testing locations, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting for FAA Level D certification"
         ]
     }
