@@ -6,7 +6,7 @@
     "email": "michaelwjantz@gmail.com",
     "phone": "(918)407-9016",
       "website": "https://www.linkedin.com/in/michael-jantz-5869aa52/",
-    "summary": "Results-driven individual with 7+ years of experience desiring to bring a Programming background and Engineering mindset to a Software Engineering position.",
+    "summary": "Results-driven individual with 9+ years of experience desiring to bring a Programming background and Engineering mindset to a Software Engineering position.",
     "location": {
       "address": "5002 S. 189th. E. Ave",
       "postalCode": "OK 74134",
@@ -26,8 +26,11 @@
       "highlights": [
         "Writing and maintaining web apps and services supporting the Finance and Reporting group using Asp.net and C#, Bootstrap, JQuery, and SQL Server 2012",
           "Some server administration and DevOps",
-          "Overseeing switch from WCF web services to Web API",
-          "Implement and maintain Git source control system"
+          "Oversaw switch from WCF web services to Web API",
+          "Implemented and maintained Git source control system",
+          "Overseeing switch from .net framework to .net core",
+          "Wrote Job Scheduling service integrating with the majority of our department's applications and affecting all rental locations"
+          "Overseeing switch from html/css/jquery to Blazor SPA framework",
       ]
     },
     {
@@ -53,9 +56,9 @@
         "endDate": "2014-06-01",
         "summary": "Our state-of-the-art FS1000 simulators replicate your aircraft’s flying characteristics, allowing more training in simulators. VITAL 1100 visual systems and CrewView glass mirror displays present highly detailed imagery for unprecedented fidelity. In addition to manufacturing visual systems, simulators and advanced training devices for ourselves, we have delivered state-of-the-art simulation to leading commercial, government and military organizations worldwide.",
         "highlights": [
-            "Gathered flight test data and generate a series of graphs to test against",
+            "Gathered audio flight test data and generated a series of graphs to test against",
             "Programmed the software portion of the simulation. Applications written in C++ that governed communication portion and Fortran for the hardware segment when needed.",
-            "Traveled to an onsite testing locations, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting."
+            "Traveled to onsite testing locations, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting for FAA Level D certification."
         ]
     }
 
