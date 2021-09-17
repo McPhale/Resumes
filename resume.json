@@ -92,14 +92,15 @@
       "name": "Full Stack Web Development",
       "level": "Intermediate",
       "keywords": [
-          "ASP.Net Web Forms/MVC",
+          "ASP.Net Web Forms/Razor Pages/MVC",
+          "Entity Framework/Entity Framework Core",
+          "Amazon S3",
+          "Blazor",
            "C#",
           "Javascript",
           "jQuery",
-          "Angular.js 4.x",
           "SQL",
           "HTML",
-          "Flash"
       ]
     },
     {
@@ -119,7 +120,8 @@
         "level": "Intermediate",
         "keywords": [
             "SQL Server 2012",
-            "SSRS"
+            "SSRS",
+            "Tableau"
         ]
     },
     {
