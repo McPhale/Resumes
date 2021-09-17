@@ -28,7 +28,7 @@
           "Some server administration and DevOps",
           "Oversaw switch from WCF web services to Web API",
           "Implemented and maintained Git source control system",
-          "Overseeing switch from .net framework to .net core",
+          "Overseeing switch from .NET framework to .NET core",
           "Wrote Job Scheduling service integrating with the majority of our department's applications and affecting all rental locations",
           "Overseeing switch from HTML/CSS/JQuery to Blazor SPA framework"
       ]
@@ -41,7 +41,7 @@
         "endDate": "2017-05-01",
         "summary": "For more than 25 years, TMA Systems has transformed organizations by providing the most technologically advanced Maintenance Management Software available. These advanced products, along with world-class training, professional services, and technical support, are key reasons TMA is the preferred solutions provider for facility professionals. Our solutions are based on input from more than 1,400 clients who maintain in excess of 45,000 facilities, representing 3.2 billion square feet of space.",
         "highlights": [
-            "Worked through three major product cycles in a .Net based web application using ASP.Net and C# with Telerik controls, on a SQL Server 2012 database.",
+            "Worked through three major product cycles in a .NET based web application using ASP.NET and C# with Telerik controls, on a SQL Server 2012 database.",
             "Created new modules and pages for products",
             "Added enhancements to existing modules",
             "Handled bug fixes",
@@ -114,7 +114,7 @@
             "Fortran",
             "Emacs Lisp",
             "Auto Hot Key",
-            "Visual Basic .Net"
+            "Visual Basic .NET"
         ]
     },
     {
