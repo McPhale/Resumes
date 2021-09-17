@@ -101,7 +101,7 @@
           "Javascript",
           "jQuery",
           "SQL",
-          "HTML",
+          "HTML"
       ]
     },
     {
@@ -133,11 +133,13 @@
             "Microsoft Visual Studio",
             "Microsoft SSMS",
             "Microsoft Visual Sourcesafe",
+            "Microsoft Visual Studio Code",
             "Git",
             "Vim",
             "Emacs",
             "Eclipse IDE",
-            "GoldWave"
+            "GoldWave",
+            "LINQPad"
         ]
     }
 
