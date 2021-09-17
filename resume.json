@@ -24,13 +24,13 @@
       "startDate": "2017-06-01",
       "summary": "Avis Budget Group is a leading global provider of mobility solutions, operating three of the most recognized brands in the industry through Avis, Budget and Zipcar. The Company is a leading vehicle rental operator in North America, Europe, Australia, New Zealand and certain other regions it serves. Avis Budget Group and its licensees operate the Avis and Budget brands in approximately 180 countries throughout the world.",
       "highlights": [
-        "Writing and maintaining web apps and services supporting the Finance and Reporting group using Asp.net and C#, Bootstrap, JQuery, and SQL Server 2012",
+        "Writing and maintaining web apps and services supporting the Finance and Reporting group using ASP.NET and C#, Bootstrap, JQuery, and SQL Server 2012",
           "Some server administration and DevOps",
           "Oversaw switch from WCF web services to Web API",
           "Implemented and maintained Git source control system",
           "Overseeing switch from .net framework to .net core",
           "Wrote Job Scheduling service integrating with the majority of our department's applications and affecting all rental locations",
-          "Overseeing switch from html/css/jquery to Blazor SPA framework"
+          "Overseeing switch from HTML/CSS/JQuery to Blazor SPA framework"
       ]
     },
     {
@@ -93,13 +93,13 @@
       "name": "Full Stack Web Development",
       "level": "Intermediate",
       "keywords": [
-          "ASP.Net Web Forms/Razor Pages/MVC",
+          "ASP.NET Web Forms/Razor Pages/MVC",
           "Entity Framework/Entity Framework Core",
           "Amazon S3",
           "Blazor",
            "C#",
           "Javascript",
-          "jQuery",
+          "JQuery",
           "SQL",
           "HTML"
       ]
