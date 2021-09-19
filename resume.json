@@ -6,7 +6,7 @@
     "email": "michaelwjantz@gmail.com",
     "phone": "(918)407-9016",
       "website": "https://www.linkedin.com/in/michael-jantz-5869aa52/",
-    "summary": "Results-driven individual with 9+ years of experience desiring to bring a Programming background and Engineering mindset to a Software Engineering position.",
+    "summary": "Results-driven developer with 9+ years of experience capable of bringing a programming background and engineering mindset to a software engineering position.",
     "location": {
       "address": "5002 S. 189th. E. Ave",
       "postalCode": "OK 74134",
@@ -19,27 +19,27 @@
   "work": [
     {
       "company": "Avis Budget Group",
-        "position": "Software Developer",
+        "position": "Software Developer, Avis Budget Group, Tulsa, Oklahoma",
       "website": "http://www.avisbudget.com",
       "startDate": "2017-06-01",
-      "summary": "Avis Budget Group is a leading global provider of mobility solutions, operating three of the most recognized brands in the industry through Avis, Budget and Zipcar. The Company is a leading vehicle rental operator in North America, Europe, Australia, New Zealand and certain other regions it serves. Avis Budget Group and its licensees operate the Avis and Budget brands in approximately 180 countries throughout the world.",
+      "summary": "Avis Budget Group is a leading global provider of mobility solutions, operating three of the most recognized brands in the vehicle rental industry through Avis, Budget and Zipcar. Avis Budget Group and its licensees operate in approximately 180 countries throughout the world.",
       "highlights": [
         "Writing and maintaining web apps and services supporting the Finance and Reporting group using ASP.NET and C#, Bootstrap, JQuery, and SQL Server 2012",
-          "Some server administration and DevOps",
+          "Troubleshooting and maintaining production server and implementing build/devops processees",
           "Oversaw switch from WCF web services to Web API",
           "Implemented and maintained Git source control system",
-          "Overseeing switch from .NET framework to .NET core",
+          "Overseeing transition from .NET framework to .NET core",
           "Wrote Job Scheduling service integrating with the majority of our department's applications and affecting all rental locations",
-          "Overseeing switch from HTML/CSS/JQuery to Blazor SPA framework"
+          "Overseeing transition from HTML/CSS/JQuery to Blazor SPA framework"
       ]
     },
     {
-        "company": "TMA Systems",
+        "company": "TMA Systems Inc, Tulsa, Oklahoma",
         "position": "Software Engineer",
         "website": "http://www.tmasystems.com/",
         "startDate": "2014-06-01",
         "endDate": "2017-05-01",
-        "summary": "For more than 25 years, TMA Systems has transformed organizations by providing the most technologically advanced Maintenance Management Software available. These advanced products, along with world-class training, professional services, and technical support, are key reasons TMA is the preferred solutions provider for facility professionals. Our solutions are based on input from more than 1,400 clients who maintain in excess of 45,000 facilities, representing 3.2 billion square feet of space.",
+        "summary": "TMA Systems provides its clients with the most technologically advanced maintenance management software vailable based on input from more than 1,400 clients who maintain in excess of 45,000 facilities, representing 3.2 billion square feet of space.",
         "highlights": [
             "Worked through three major product cycles in a .NET based web application using ASP.NET and C# with Telerik controls, on a SQL Server 2012 database",
             "Created new modules and pages for products",
@@ -49,16 +49,15 @@
         ]
     },
     {
-        "company": "FlightSafety, International",
+        "company": "FlightSafety International, Broken Arrow, Oklahoma",
         "position": "Electrical Engineer",
         "website": "https://www.flightsafety.com/",
         "startDate": "2012-07-01",
         "endDate": "2014-06-01",
-        "summary": "Our state-of-the-art FS1000 simulators replicate your aircraft’s flying characteristics, allowing more training in simulators. VITAL 1100 visual systems and CrewView glass mirror displays present highly detailed imagery for unprecedented fidelity. In addition to manufacturing visual systems, simulators and advanced training devices for ourselves, we have delivered state-of-the-art simulation to leading commercial, government and military organizations worldwide.",
         "highlights": [
-            "Gathered audio flight test data and generated a series of graphs to test against",
+            "Gathered audio flight test data and generated a series of graphs to test simulation accuracy against",
             "Simulated the communications systems, cockpit, and environmental sounds for various aircraft in C++ and integrated aircraft control systems into these simulations via Fortran",
-            "Traveled to onsite testing locations, in order to tune the flight recording equipment, sit with customer, fine tune in a live setting for FAA Level D certification"
+            "Traveled to onsite installation locations in order to tune the flight recording equipment, assist customer with creating the most accurate flight experience possible, and fine tune the audio characteristics in a live setting for FAA Level D certification"
         ]
     }
 
@@ -66,12 +65,12 @@
     "volunteer": [ ],
   "education": [
     {
-      "institution": "Northeastern State University",
+      "institution": "Northeastern State University, Tahlequah, Oklahoma",
       "area": "Computer Science",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science, magna cum laud in Computer Science",
       "startDate": "2008-08-01",
       "endDate": "2012-05-01",
-      "gpa": "3.699, Magna Cum Laud"
+      "gpa": "3.699"
     }
   ],
     "awards": [
