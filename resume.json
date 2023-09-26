@@ -24,16 +24,17 @@
     "startDate": "2017-06-01",
     "summary": "Avis Budget Group is a leading global provider of mobility solutions, operating three of the most recognized brands in the vehicle rental industry through Avis, Budget and Zipcar. Avis Budget Group and its licensees operate in approximately 180 countries throughout the world.",
     "highlights": [
-        "Wrote and maintained web apps and services supporting the Finance and Reporting group using ASP.NET and C#, Bootstrap, JQuery, and SQL Server",
+        "Wrote and maintained web apps and services supporting the Finance and Reporting group using ASP.NET and C#, Blazor (Web-Assembly and Server models), Bootstrap, JQuery, and SQL Server",
         "Updated service packs, IIS integrations, and disk partitions, and performed troubleshooting on production server",
         "Standardized build and devops processes",
         "Migrated web services from WCF to Web API",
         "Implemented and maintained Git source control system",
         "Migrated applications from .NET Framework to .NET Core/.NET",
-        "Wrote a service to schedule jobs that integrates with the majority of the deparment's applications, automating inter-departmental communication, rental contract reliability, and assisting in day-to-day rental operations at 3500+ rental locations",
-        "Lead the migration of applications from HTML, CSS, and jQuery to Blazor WebAssembly SPA framework",
+        "Wrote a service to schedule jobs that integrates with the majority of the department's applications, automating inter-departmental communication, rental contract reliability, and assisting in day-to-day rental operations at 3500+ rental locations",
+        "Lead the migration of applications from HTML, CSS, and jQuery to Blazor SPA framework",
         "Championed the effort to procure funding for modern integrated development environments with appropriate business licenses, admin rights, new development machines, and cloud hosting",
-        "Lead the initiative to migrate from on-premises production server to Amazon Web Services, including CI/CD pipelines and repository hosting"
+        "Lead the initiative to migrate from on-premises production server to Amazon Web Services, including CI/CD pipelines and repository hosting",
+        "Leveraged the power of software to streamline and automate business processes supporting both the Specialty Reservations contact center and global operations"
     ]
 },
     {
@@ -105,6 +106,16 @@
           "SQL",
           "HTML"
       ]
+    },
+    {
+        "name": "Business Process Automation",
+        "level": "Intermediate",
+        "keywords": [
+            "Streamline",
+            "Zero-touch",
+            "Notifications",
+            "Integrations"
+        ]
     },
     {
         "name": "General Systems Development",
