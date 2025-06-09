@@ -6,7 +6,7 @@
     "email": "michaelwjantz@gmail.com",
     "phone": "(918)407-9016",
       "website": "https://www.linkedin.com/in/michael-jantz-5869aa52/",
-    "summary": "Results-driven developer with 12+ years of experience capable of bringing a programming background and engineering mindset to a software engineering position.",
+    "summary": "Results-driven developer with 13+ years of experience capable of bringing a programming background and engineering mindset to a software engineering position.",
     "location": {
       "address": "5002 S. 189th. E. Ave",
       "postalCode": "OK 74134",
@@ -24,16 +24,20 @@
     "startDate": "2017-06-01",
     "summary": "Avis Budget Group is a leading global provider of mobility solutions, operating three of the most recognized brands in the vehicle rental industry through Avis, Budget and Zipcar. Avis Budget Group and its licensees operate in approximately 180 countries throughout the world.",
     "highlights": [
-        "Wrote and maintained web apps and services supporting the Finance and Reporting group using ASP.NET and C#, Blazor (Web-Assembly and Server models), Bootstrap, JQuery, and SQL Server",
+        "Wrote and maintained web apps and services supporting the Finance and Reporting group using ASP.NET/.net core/.NET and C#, Blazor, Bootstrap, JQuery, and SQL Server",
         "Updated service packs, IIS integrations, and disk partitions, and performed troubleshooting on production server",
         "Standardized build and devops processes",
         "Migrated web services from WCF to Web API",
         "Implemented and maintained Git source control system",
         "Migrated applications from .NET Framework to .NET Core/.NET",
         "Wrote a service to schedule jobs that integrates with the majority of the department's applications, automating inter-departmental communication, rental contract reliability, and assisting in day-to-day rental operations at 3500+ rental locations",
+        "Built a business continuity application leveraging Bing maps to allow rental locations to update their hours/open + close locations during natural disasters, etc, used by all locations in North America",
+        "Built an application that's used as a self-service contact directory by all field locations",
+        "Implemented multiple customer and vendor services integrations, including one driving Budget Truck's entire package and delivery peak season",
         "Lead the migration of applications from HTML, CSS, and jQuery to Blazor SPA framework",
         "Championed the effort to procure funding for modern integrated development environments with appropriate business licenses, admin rights, new development machines, and cloud hosting",
         "Lead the initiative to migrate from on-premises production server to Amazon Web Services, including CI/CD pipelines and repository hosting",
+        "Lead a second initiative to migrate from on-premises production server to virtual servers in data center when a funding freeze was implemented",
         "Leveraged the power of software to streamline and automate business processes supporting both the Specialty Reservations contact center and global operations"
     ]
 },
@@ -59,7 +63,7 @@
         "startDate": "2012-07-01",
         "endDate": "2014-06-01",
         "highlights": [
-            "Gathered audio flight test data and generated a series of graphs to test simulation accuracy against",
+            "Gathered audio flight test data and generated a series of graphs to test simulation accuracy against for multiple aircraft",
             "Simulated the communications systems, cockpit, and environmental sounds for various aircraft in C++ and integrated aircraft control systems into these simulations via Fortran",
             "Traveled to onsite installation locations in order to tune the flight recording equipment, assist customer with creating the most accurate flight experience possible, and fine tune the audio characteristics in a live setting for FAA Level D certification"
         ]
